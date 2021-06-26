@@ -1,0 +1,1 @@
+Casio DW-9052 is a vary popular clock, this website simulate most of its functionality using javascript.
